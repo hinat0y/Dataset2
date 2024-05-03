@@ -57,7 +57,7 @@
 	  <!-- version 25 -->
 	  <json.version>20200518</json.version>
 	  <!-- version 26 -->
-	  <spring-core.version>6.0.3</spring-core.version>
+	  <spring-core.version>6.1.5</spring-core.version>
 	  <!-- version 27 -->
 	  <commons-beanutils.version>1.8.3</commons-beanutils.version>
 	  <!-- version 28 -->
